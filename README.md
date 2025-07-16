@@ -1,4 +1,5 @@
 #ECG Arrhythmia Classification using 1D-CNN (ResNet)
+
 This project detects and classifies ECG arrhythmias using a custom 1D Convolutional Neural Network with Residual Blocks (ResNet). It was built using the MIT-BIH Arrhythmia dataset and achieves an accuracy of 98.51%.
 
 📌 Highlights
